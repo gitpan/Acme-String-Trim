@@ -3,10 +3,10 @@ use warnings;
 
 package Acme::String::Trim;
 {
-  $Acme::String::Trim::VERSION = '0.002';
+  $Acme::String::Trim::VERSION = '0.003';
 }
 
-# ABSTRACT: Acme::String::Trim - Module to experiment with 'dist-zilla'
+# ABSTRACT: Acme::String::Trim - Module to experiment with 'dist-zilla', github and cpan
 
 
 sub new {
@@ -36,15 +36,15 @@ __END__
 
 =head1 NAME
 
-Acme::String::Trim - Acme::String::Trim - Module to experiment with 'dist-zilla'
+Acme::String::Trim - Acme::String::Trim - Module to experiment with 'dist-zilla', github and cpan
 
 =head1 VERSION
 
-version 0.002
+version 0.003
 
 =head1 DESCRIPTION
 
-A sample module to play with 'dist-zilla'
+A sample module to experiment with 'dist-zilla', github and cpan
 
 =head1 METHODS
 

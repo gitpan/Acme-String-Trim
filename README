@@ -1,12 +1,12 @@
 NAME
     Acme::String::Trim - Acme::String::Trim - Module to experiment with
-    'dist-zilla'
+    'dist-zilla', github and cpan
 
 VERSION
-    version 0.002
+    version 0.003
 
 DESCRIPTION
-    A sample module to play with 'dist-zilla'
+    A sample module to experiment with 'dist-zilla', github and cpan
 
 METHODS
   new

@@ -9,7 +9,7 @@ use ExtUtils::MakeMaker 6.30;
 
 
 my %WriteMakefileArgs = (
-  "ABSTRACT" => "Acme::String::Trim - Module to experiment with 'dist-zilla'",
+  "ABSTRACT" => "Acme::String::Trim - Module to experiment with 'dist-zilla', github and cpan",
   "AUTHOR" => "Abhishek Shende <abhishekisnot\@gmail.com>",
   "BUILD_REQUIRES" => {
     "File::Find" => 0,
@@ -27,7 +27,7 @@ my %WriteMakefileArgs = (
     "strict" => 0,
     "warnings" => 0
   },
-  "VERSION" => "0.002",
+  "VERSION" => "0.003",
   "test" => {
     "TESTS" => "t/*.t"
   }
