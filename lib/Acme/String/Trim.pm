@@ -3,7 +3,7 @@ use warnings;
 
 package Acme::String::Trim;
 {
-  $Acme::String::Trim::VERSION = '0.001';
+  $Acme::String::Trim::VERSION = '0.002';
 }
 
 # ABSTRACT: Acme::String::Trim - Module to experiment with 'dist-zilla'
@@ -40,7 +40,7 @@ Acme::String::Trim - Acme::String::Trim - Module to experiment with 'dist-zilla'
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 DESCRIPTION
 

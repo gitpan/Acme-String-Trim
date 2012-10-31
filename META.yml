@@ -21,4 +21,4 @@ requires:
 resources:
   bugtracker: https://github.com/abhishekisnot/Acme-String-Trim/issues
   repository: git://github.com/abhishekisnot/Acme-String-Trim.git
-version: 0.001
+version: 0.002

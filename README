@@ -3,7 +3,7 @@ NAME
     'dist-zilla'
 
 VERSION
-    version 0.001
+    version 0.002
 
 DESCRIPTION
     A sample module to play with 'dist-zilla'
